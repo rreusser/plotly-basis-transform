@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Highly experimental plotly.js transform to generate a linspace (or, eventually, logspace). See related [ploty-expression-transform](http://rickyreusser.com/plotly-expression-transform) example.
+Highly experimental plotly.js transform to generate a linspace (or, eventually, logspace). See related [ploty-expression-transform](https://rreusser.github.io/plotly-expression-transform) example.
 
 ## Example
 
